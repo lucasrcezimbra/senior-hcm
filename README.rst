@@ -1,5 +1,22 @@
 Senior HCM
 ============
+
+.. image:: https://badge.fury.io/py/senior-hcm.svg
+    :target: https://badge.fury.io/py/senior-hcm
+    :alt: PyPI
+.. image:: https://travis-ci.org/Lrcezimbra/senior-hcm.svg?branch=master
+    :target: https://travis-ci.org/Lrcezimbra/senior-hcm
+    :alt: Travis CI Build
+.. image:: https://coveralls.io/repos/github/Lrcezimbra/senior-hcm/badge.svg?branch=master
+    :target: https://coveralls.io/github/Lrcezimbra/senior-hcm?branch=master
+    :alt: Coverage
+.. image:: https://pyup.io/repos/github/Lrcezimbra/senior-hcm/shield.svg
+    :target: https://pyup.io/repos/github/Lrcezimbra/senior-hcm/
+    :alt: Updates
+.. image:: https://pyup.io/repos/github/Lrcezimbra/senior-hcm/python-3-shield.svg
+    :target: https://pyup.io/repos/github/Lrcezimbra/senior-hcm/
+    :alt: Python 3
+     
 Client to access `Senior HCM`_ API 
 
 .. _Senior HCM: https://hcm.senior.com.br/
