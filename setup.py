@@ -11,7 +11,7 @@ if __name__ == "__main__":
     setup(
         name='senior-hcm',
         description='Client to access Senior HCM',
-        version='0.0.1',
+        version='0.0.2',
         long_description=open(README).read(),
         author="Lucas Rangel Cezimbra",
         author_email="lucas.cezimbra@gmail.com",
